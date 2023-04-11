@@ -12,7 +12,7 @@ html, body {
 header {
   width: 100%;
   background:lightseagreen;
-  font-family: 'Pacifico', cursive;
+  font-family: 'Arial', cursive;
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
